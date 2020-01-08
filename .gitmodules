@@ -1,0 +1,3 @@
+[submodule "projects/visualize-unet2d"]
+	path = projects/unet2d
+	url = git@github.com:xudejing/visualize-unet2d.git
